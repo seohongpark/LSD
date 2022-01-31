@@ -1,11 +1,20 @@
 # Lipschitz-constrained Unsupervised Skill Discovery
 
-This is the code for Lipschitz-constrained Unsupervised Skill Discovery.
+This repository is the official implementation of
+
+- *[Seohong Park](https://shpark.me/),
+[Jongwook Choi](https://wook.kr/)\*,
+[Jaekyeom Kim](https://jaekyeom.github.io/)\*,
+[Honglak Lee](https://web.eecs.umich.edu/~honglak/),
+[Gunhee Kim](https://vision.snu.ac.kr/gunhee/)* (\*: equal contribution).
+**Lipschitz-constrained Unsupervised Skill Discovery**. In *ICLR, 2022*.
+[paper] [[project page]](https://shpark.me/projects/lsd/) [slides]
+
 The implementation is based on
 [Unsupervised Skill Discovery with Bottleneck Option Learning](https://github.com/jaekyeom/IBOL)
-and [garage](https://github.com/rlworkgroup/garage/).
+and [garage](https://github.com/rlworkgroup/garage).
 
-Visit [our project page](https://sites.google.com/view/lipschitz-skill) for more results including videos.
+Visit [our project page](https://shpark.me/projects/lsd/) for more results including videos.
 
 ## Requirements
 - Python 3.7.8
