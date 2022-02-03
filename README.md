@@ -8,7 +8,7 @@ This repository is the official implementation of
 [Honglak Lee](https://web.eecs.umich.edu/~honglak/),
 [Gunhee Kim](https://vision.snu.ac.kr/gunhee/)* (\*: equal contribution).
 **Lipschitz-constrained Unsupervised Skill Discovery**. In *ICLR, 2022*.
-[paper] [[project page]](https://shpark.me/projects/lsd/) [slides]
+[[paper]](https://arxiv.org/abs/2202.00914) [[project page]](https://shpark.me/projects/lsd/) [slides]
 
 The implementation is based on
 [Unsupervised Skill Discovery with Bottleneck Option Learning](https://github.com/jaekyeom/IBOL)
