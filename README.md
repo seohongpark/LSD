@@ -18,7 +18,6 @@ Visit [our project page](https://shpark.me/projects/lsd/) for more results inclu
 
 ## Requirements
 - Python 3.7.8
-- [MuJoCo](http://mujoco.org/) 1.5
 
 ## Examples
 
