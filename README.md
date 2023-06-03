@@ -2,19 +2,24 @@
 
 This repository is the official implementation of
 
-- *[Seohong Park](https://shpark.me/),
+- *[Seohong Park](https://seohong.me/),
 [Jongwook Choi](https://wook.kr/)\*,
 [Jaekyeom Kim](https://jaekyeom.github.io/)\*,
 [Honglak Lee](https://web.eecs.umich.edu/~honglak/),
 [Gunhee Kim](https://vision.snu.ac.kr/gunhee/)* (\*: equal contribution).
 **Lipschitz-constrained Unsupervised Skill Discovery**. In *ICLR, 2022*.
-[[paper]](https://arxiv.org/abs/2202.00914) [[project page]](https://shpark.me/projects/lsd/) [slides]
+[[paper]](https://arxiv.org/abs/2202.00914) [[project page]](https://seohong.me/projects/lsd/) [slides]
 
 The implementation is based on
 [Unsupervised Skill Discovery with Bottleneck Option Learning](https://github.com/jaekyeom/IBOL)
 and [garage](https://github.com/rlworkgroup/garage).
 
-Visit [our project page](https://shpark.me/projects/lsd/) for more results including videos.
+Visit [our project page](https://seohong.me/projects/lsd/) for more results including videos.
+
+**Update (June 3, 2023)**: We released a sample-efficient version of LSD in [this repository](https://github.com/seohongpark/csd-locomotion).
+This version improves sample efficiency by ~10x, though there may be a slight decrease in performance.
+We recommend using this repository for reproducing the results in the LSD paper
+and the sample-efficient version for fast prototyping.
 
 ## Requirements
 - Python 3.7.8
