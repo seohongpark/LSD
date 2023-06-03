@@ -16,7 +16,7 @@ and [garage](https://github.com/rlworkgroup/garage).
 
 Visit [our project page](https://seohong.me/projects/lsd/) for more results including videos.
 
-**Update (June 3, 2023)**: We released a sample-efficient version of LSD in [this repository](https://github.com/seohongpark/csd-locomotion).
+**Update (June 3, 2023)**: We released a sample-efficient version of LSD in [this repository](https://github.com/seohongpark/CSD-locomotion).
 This version improves sample efficiency by ~10x, though there may be a slight decrease in performance.
 We recommend using this repository for reproducing the results in the LSD paper
 and the sample-efficient version for fast prototyping.
